@@ -12,6 +12,9 @@ Los ejercicios están pensados como material didáctico. Algunos trabajan con ta
 de entrada acotados o devuelven un valor de error documentado cuando reciben datos
 no válidos; consulta los comentarios de cada archivo.
 
+!!!!
+Como traduje estos textos con IA desde mi lengua materna, es posible que tengan algún pequeño error.
+
 ## Estructura del proyecto
 
 | Carpeta | Contenido |
