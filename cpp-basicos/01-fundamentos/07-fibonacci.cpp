@@ -1,7 +1,7 @@
 // Descripcion: Muestra los numeros de Fibonacci hasta el valor 14000.
 // Diseño: anterior, actual ---> calcular siguiente ---> mostrar
 // ----AUTOR: Kerem Akcan----
-// ----FECHA: 04/11/2026----
+// ----FECHA: 30/09/2026----
 
 #include <iostream>
 using namespace std;
