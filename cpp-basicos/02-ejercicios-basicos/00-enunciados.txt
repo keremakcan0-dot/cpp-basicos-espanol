@@ -1,0 +1,37 @@
+Ejercicios de programación:
+Para cada uno de ellos hay que:
+
++ diseñar la función
++ implementar la función
++ escribir una prueba automática
+
+Nota: 
++ para hacer algunos ejercicios se pueden llamar a funciones ya realizadas en otros.
++ las funciones no pueden comunicarse (leer o escribir) con el usuario, esto es solo posible
+desde main(), pero si hacemos una prueba automática solo podremos escribir para avisar
+que el programa no va bien.
++ hay que recordar que "devolver" no tiene porqué ser return siempre.
+
+Básicos:
+
+1-hacer una función que se le pase un número entero y te devuelva el entero siguiente 
+2-calcular el factorial de un número
+3-recibir un número entero y hacer el sumatorio desde 1 a ese número
+4-recibir un número entero y hacer el productorio desde 1 a ese número
+5-hacer una función de entrada que le pida al usuario un número hasta que el usuario introduzca un número positivo
+6-hacer una función que reciba un año y nos diga si es bisiesto o no.
+7-hacer una función que reciba un número y nos diga si es primo.
+8-hacer una función que nos diga si un número es par.
+9-hacer una función que nos diga si un número es positivo.
+
+Archivos de esta carpeta (numero del enunciado -> archivo):
+1-> 01-siguiente-numero.cpp
+2-> 02-factorial.cpp
+3-> 03-sumatorio.cpp
+4-> 08-productorio.cpp
+5-> 04-leer-numero-positivo.cpp
+6-> 09-es-bisiesto.cpp
+7-> 05-es-primo.cpp
+8-> 10-es-par.cpp
+9-> 11-es-positivo.cpp
+Extra: 06-cuantos-positivos.cpp, 07-cuantos-primos.cpp

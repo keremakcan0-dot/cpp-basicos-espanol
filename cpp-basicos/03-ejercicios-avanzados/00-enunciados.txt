@@ -1,0 +1,14 @@
+Sobre listas:
+
+1-hacer una función que se le pasen dos números enteros y devolver una lista con todos los números desde el menor hasta el mayor (ambos incluidos).
+2-hacer una función que se la pase un número entero n y nos devuelva los n primeros números de la serie de Fibonacci en una lista
+3-hacer una función donde le pasemos analista de números enteros y dos números y nos devuelva otra lista donde se cambien todos las apariciones del primer número por el segundo (manteniendo su posición)
+4-hacer una función que reciba una lista de números los ordene (de menor a mayor)
+
+
+Archivos de esta carpeta (numero del enunciado -> archivo):
+1-> 01-lista-menor-a-mayor.cpp
+2-> 02-fibonacci-lista.cpp
+3-> 05-reemplazar-numero.cpp
+4-> 03-ordenar-lista.cpp
+Extra: 04-numeros-armstrong.cpp
