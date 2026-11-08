@@ -1,7 +1,7 @@
 // Descripcion: Recorre un array de numeros y comprueba si estan aprobados (>=3) o suspensos (<3).
 // Diseño: numeros[5] ---> bucle for ---> mensaje (aprobado/suspenso)
 // ----AUTOR: Kerem Akcan----
-// ----FECHA: 04/11/2026----
+// ----FECHA: 30/09/2026----
 
 #include <iostream>
 using namespace std;
