@@ -1,7 +1,7 @@
 // Descripcion: Pide un numero al usuario, le suma 1 y lo muestra por pantalla.
 // Diseño: numeroIngresado ---> +1 ---> resultado
 // ----AUTOR: Kerem Akcan----
-// ----FECHA: 04/11/2026----
+// ----FECHA: 30/09/2026----
 
 #include <iostream>
 using namespace std;
