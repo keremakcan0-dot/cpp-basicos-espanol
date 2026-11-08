@@ -1,7 +1,7 @@
 // Descripcion: Define una estructura de persona y comprueba si sus miembros pueden comprar alcohol.
 // Diseño: lista[Persona] ---> verificar edad ---> mensaje en consola
 // ----AUTOR: Kerem Akcan----
-// ----FECHA: 04/11/2026----
+// ----FECHA: 30/09/2026----
 
 #include <iostream>
 #include <vector>
