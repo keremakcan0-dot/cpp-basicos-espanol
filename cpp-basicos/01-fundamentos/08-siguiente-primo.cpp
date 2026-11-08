@@ -1,7 +1,7 @@
 // Descripcion: Lee un numero y encuentra el siguiente numero primo.
 // Diseño: numero ---> bucle de busqueda ---> esPrimo ---> siguiente primo
 // ----AUTOR: Kerem Akcan----
-// ----FECHA: 04/11/2026----
+// ----FECHA: 30/09/2026----
 
 #include <iostream>
 using namespace std;
